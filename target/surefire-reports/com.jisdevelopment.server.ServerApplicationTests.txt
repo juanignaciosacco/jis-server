@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jisdevelopment.server.ServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.725 s - in com.jisdevelopment.server.ServerApplicationTests
